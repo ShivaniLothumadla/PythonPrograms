@@ -1,0 +1,4 @@
+{
+  "decorators.py::test_decorator": true,
+  "generators.py::test_sequence": true
+}

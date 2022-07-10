@@ -1,0 +1,42 @@
+# my_set = {'apple', 'banana', 'orange'}
+# my_set.update([1,5])
+# my_set.add(5)
+# print(my_set)
+# my_set.update(['grape', 'papaya'])
+# my_set1 = my_set
+# my_set.remove('apple')
+# print(my_set)
+# print(my_set1)
+# my_set1 = my_set.copy()
+# my_set.discard('grape')
+# my_set.discard('grape')
+# my_set.remove('grape')
+# print(my_set)
+# print(my_set1)
+
+# my_tuple = ('apple',)
+# print(my_tuple)
+# print(type(my_tuple))
+# print(my_tuple[:])
+# print(my_tuple[0])
+# print(my_tuple.count('apple'))
+# print(len(my_tuple))
+# my_list = list(my_tuple)
+# my_list[-1] = 'nhjjd'
+# print(my_tuple[-1])
+# print(my_list[-1])
+
+my_list = ['aba', 'bcg', 'jhhh', 'uiu']
+print(my_list)
+print(type(my_list))
+# my_dict = {1: 453, 2: 333, 3: 344, 4: 984}
+# print(my_dict)
+# print(my_dict.__iter__().__next__())
+# my_dict.pop(3)
+# print(my_dict)
+# my_dict.popitem()
+# my_dict.fromkeys([1,2,3])
+# print(my_dict)
+# print(my_dict.setdefault(5,888))
+# print(my_dict)
+# print(my_dict)

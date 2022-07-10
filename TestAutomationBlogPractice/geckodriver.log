@@ -1,0 +1,23 @@
+1649500770059	geckodriver	INFO	Listening on 127.0.0.1:55665
+1649500773105	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\SHIVAN~1.LOT\\AppData\\Local\\Temp\\rust_mozprofileNaQ3mF"
+1649500773445	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SHIVAN~1.LOT\\AppData\\Local\\Temp\\rust_mozprofileNaQ3mF\\search.json.mozlz4", (void 0)))
+1649500775389	Marionette	INFO	Listening on port 55673
+1649500775843	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1649501418181	Marionette	INFO	Stopped listening on port 55673
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+\\Users\\SHIVAN~1.LOT\\AppData\\Local\\Temp\\rust_mozprofilexmUs6Y"
+1649500812058	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SHIVAN~1.LOT\\AppData\\Local\\Temp\\rust_mozprofilexmUs6Y\\search.json.mozlz4", (void 0)))
+1649500814024	Marionette	INFO	Listening on port 55781
+1649500814497	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1649501419648	Marionette	INFO	Stopped listening on port 55781
+1649681567594	geckodriver	INFO	Listening on 127.0.0.1:55518
+1649681570642	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\SHIVAN~1.LOT\\AppData\\Local\\Temp\\rust_mozprofile9GQ9Jc"
+1649681573212	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SHIVAN~1.LOT\\AppData\\Local\\Temp\\rust_mozprofile9GQ9Jc\\search.json.mozlz4", (void 0)))
+1649681579122	Marionette	INFO	Listening on port 55526
+1649681579247	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1649683944042	Marionette	INFO	Stopped listening on port 55526
